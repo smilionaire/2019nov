@@ -13,7 +13,7 @@
 }
 .nov2019 a{
 	text-decoration: none;	
-	color: #000;
+	color: black;
 }
 .nov2019 h1{
 	border: 2px solid black;
@@ -22,7 +22,7 @@
 	text-align: center;
 }
 .nov2019 i{
-	color: #000;
+	color: black;
 }
 @media only screen and (min-width: 1100px){
 .nov2019 img{
